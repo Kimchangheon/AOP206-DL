@@ -1,0 +1,7 @@
+,Assay	,ATG_NF_kB_CIS_dn(Input).txt
+0,Total Chemicals	,3421.0
+1,Ligand	,0.0
+2,Non-ligand	,3421.0
+3,Model accuracy,95.70063719181879
+4,True Positive rate,0.9570063694267515
+5,False Positive rate,0.0535031847133758
